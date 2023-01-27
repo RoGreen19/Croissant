@@ -1,3 +1,15 @@
-h1 {
+body {
+  background-color: #b36bd7;
   text-align: center;
+}
+
+ul li {
+  display: inline;
+  list-style: none;
+  padding: 30px;
+}
+
+li {
+  text-decoration: none;
+  color: rgb(117, 115, 12);
 }
