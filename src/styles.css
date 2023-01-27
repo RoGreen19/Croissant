@@ -3,6 +3,12 @@ body {
   text-align: center;
 }
 
+p {
+  color: #fff;
+  font-size: 23px;
+  margin: 4px 60px 4px;
+}
+
 ul li {
   display: inline;
   list-style: none;
