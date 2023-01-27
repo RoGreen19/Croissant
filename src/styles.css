@@ -19,3 +19,8 @@ a:visited {
   text-decoration: none;
   color: rgb(9, 11, 99);
 }
+
+.email-link {
+  font-size: 15px;
+  color: #fff;
+}
