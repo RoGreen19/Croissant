@@ -9,7 +9,13 @@ ul li {
   padding: 30px;
 }
 
-li {
+a {
+  font-size: 18px;
   text-decoration: none;
-  color: rgb(117, 115, 12);
+  color: rgb(155, 43, 24);
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgb(9, 11, 99);
 }
